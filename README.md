@@ -12,7 +12,8 @@ Sr. Staff Software Engineer @ ServiceNow • Developer Evangelist • Technical 
 
 ## 🌟 Highlights
 
-- **☁️ Platform & Cloud**: GCP, Kubernetes, ServiceNow platform, REST APIs, CI/CD
+- **💻 Languages & Frameworks**: JavaScript, Go, Java, Python, Node.js, Rust, PHP, TypeScript, C#, C++
+- **☁️ Platform & Cloud**: GCP, Kubernetes, ServiceNow platform, AWS, CI/CD
 - **📢 Developer Evangelism**: curriculum, workshops, documentation, community building
 - **🎯 Leadership**: cross-functional collaboration, mentorship, measurable business impact
 
