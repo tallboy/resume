@@ -8,5 +8,8 @@
       "left": "12mm"
     },
     "printBackground": true
+  },
+  "launch_options": {
+    "args": ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
   }
 }
