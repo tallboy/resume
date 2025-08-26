@@ -26,8 +26,7 @@ jobs:
         run: |
           md-to-pdf Tommy_Ryan_Resume.md \
             --config-file md2pdf.json \
-            --stylesheet styles.css \
-            --dest-name Tommy_Ryan_Resume.pdf
+            --stylesheet styles.css
 
       - name: Upload artifact (always)
         uses: actions/upload-artifact@v4
