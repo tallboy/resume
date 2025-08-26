@@ -1,0 +1,44 @@
+name: Build Resume PDF
+
+on:
+  push:
+    branches: [ "main" ]
+    tags: [ "v*" ]
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install md-to-pdf
+        run: npm i -g md-to-pdf
+
+      - name: Build PDF
+        run: |
+          md-to-pdf Tommy_Ryan_Resume.md \
+            --config-file md2pdf.json \
+            --stylesheet styles.css \
+            --dest-name Tommy_Ryan_Resume.pdf
+
+      - name: Upload artifact (always)
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdf
+          path: Tommy_Ryan_Resume.pdf
+
+      - name: Attach PDF to Release (only for tags)
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: Tommy_Ryan_Resume.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

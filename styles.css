@@ -1,0 +1,23 @@
+/* System fonts for clean look */
+:root { --fg: #111; --muted: #555; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, system-ui, sans-serif; color: var(--fg); line-height: 1.35; }
+h1, h2, h3 { margin: 0 0 6px; }
+h1 { font-size: 22px; font-weight: 800; letter-spacing: 0.2px; }
+h2 { font-size: 14px; margin-top: 14px; border-bottom: 1px solid #eaeaea; padding-bottom: 3px; }
+h3 { font-size: 13px; font-weight: 700; margin-top: 10px; }
+p, li { font-size: 11.25px; margin: 3px 0; }
+ul { margin: 4px 0 6px 18px; }
+strong { font-weight: 700; }
+em { color: var(--muted); }
+
+hr { border: none; border-top: 1px solid #eee; margin: 8px 0; }
+
+/* Tight header block */
+header, .header { margin-bottom: 6px; }
+.header small { color: var(--muted); }
+
+/* Two-column helpers if you ever want them
+.container { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; } */
+
+@page { size: Letter; margin: 12mm; }
+a { color: inherit; text-decoration: none; border-bottom: 1px dotted #bbb; }
