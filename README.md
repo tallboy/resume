@@ -1,8 +1,8 @@
 # Tommy Ryan — Resume 📄
 
 [![Last Updated](https://img.shields.io/badge/updated-2025.08-blue.svg)](../../releases)
-[![PDF](https://img.shields.io/badge/download-PDF-important.svg)](./Tommy_Ryan_Resume.pdf)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](./LICENSE)
+[![PDF](https://img.shields.io/badge/download-PDF-important.svg)](../../releases/latest)
+[![Actions](https://img.shields.io/badge/build-artifacts-blue.svg)](../../actions)
 
 A single-source (Markdown) resume that auto-builds to PDF on each tagged release. ✨
 
@@ -19,7 +19,7 @@ Sr. Staff Software Engineer @ ServiceNow • Developer Evangelist • Technical 
 ## 📁 Files
 
 - `Tommy_Ryan_Resume.md` — source of truth 📝
-- `Tommy_Ryan_Resume.pdf` — built by CI (see Releases for versioned PDFs) 🤖
+- `Tommy_Ryan_Resume.pdf` — auto-generated (see [Releases](../../releases) for tagged PDFs or [Actions](../../actions) for latest builds) 🤖
 
 ## 🏷️ Versioning
 
