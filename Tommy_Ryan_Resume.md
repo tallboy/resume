@@ -8,13 +8,13 @@
 
 ## Professional Summary
 
-Accomplished **Sr. Staff Software Engineer** with 7+ years of platform engineering excellence at ServiceNow, combining deep technical expertise with exceptional developer evangelism and training leadership. Co-founded transformational bootcamp program that **trained 4,000+ engineers across 250+ sessions**, generating **$200M in business value** by reducing engineering ramp time from 6 months to 30 days. Proven track record in **cloud technologies**, **cross-functional collaboration**, and **community building** with measurable business impact. Seeking to leverage technical expertise and evangelism experience in Google's ServiceNow Center of Excellence.
+Accomplished **Sr. Staff Software Engineer** with 7+ years of platform engineering excellence at ServiceNow, combining deep technical expertise with exceptional developer evangelism and training leadership. Co-founded transformational bootcamp program that **trained 4,000+ engineers across 250+ sessions**, generating **$200M in business value** by reducing engineering ramp time from 6 months to 30 days. Proven track record in **cloud technologies**, **cross-functional collaboration**, and **community building** with measurable business impact. Seeking to leverage technical expertise and evangelism experience to drive platform adoption and technical excellence.
 
 ---
 
 ## Core Competencies
 
-**Technical Leadership** • **Developer Evangelism** • **Platform Engineering** • **Cloud Technologies (GCP/Kubernetes)** • **Technical Training & Mentorship** • **Cross-Functional Collaboration** • **Community Building** • **Business Impact Measurement**
+**Technical Leadership** • **Developer Evangelism** • **Platform Engineering** • **Cloud Technologies (AWS/GCP/Azure/Kubernetes)** • **Technical Training & Mentorship** • **Cross-Functional Collaboration** • **Community Building** • **Business Impact Measurement**
 
 ---
 
@@ -34,8 +34,8 @@ Accomplished **Sr. Staff Software Engineer** with 7+ years of platform engineeri
 
 #### **Platform Engineering & Cloud Technologies**
 
-- **Led Kubernetes and GCP deployment initiatives** for enterprise-scale ServiceNow platform solutions
-- **Architected cloud-native solutions** leveraging Google Cloud Platform services for improved scalability and reliability
+- **Led Kubernetes and cloud deployment initiatives** for enterprise-scale ServiceNow platform solutions
+- **Architected cloud-native solutions** leveraging major cloud platforms (AWS, GCP, Azure) for improved scalability and reliability
 - **Developed developer tools and APIs** that enhanced platform adoption and reduced development friction
 - **Collaborated cross-functionally** with product, sales, and customer success teams to drive platform evangelist initiatives
 
@@ -77,7 +77,7 @@ JavaScript • Go • Java • Python • Node.js • Rust • PHP • TypeScrip
 
 ### **Cloud & Platform Technologies**
 
-Google Cloud Platform (GCP) • Kubernetes • ServiceNow Platform • AWS • CI/CD
+AWS • Google Cloud Platform (GCP) • Microsoft Azure • Kubernetes • ServiceNow Platform • CI/CD
 
 ### **Developer Evangelism & Training**
 
@@ -131,8 +131,8 @@ Business Intelligence • Data Analysis • Performance Metrics • ROI Measurem
 
 ---
 
-## Why Google ServiceNow Center of Excellence
+## Value Proposition
 
-Bringing **proven track record** in developer evangelism, technical training leadership, and measurable business impact to accelerate Google's ServiceNow Center of Excellence initiatives. Ready to leverage **7+ years of ServiceNow platform expertise**, **cloud technologies experience**, and **demonstrated ability to train and scale technical teams** to drive adoption, education, and success in Google's ServiceNow implementation.
+Bringing **proven track record** in developer evangelism, technical training leadership, and measurable business impact to accelerate platform adoption and technical excellence initiatives. Ready to leverage **7+ years of ServiceNow platform expertise**, **multi-cloud technologies experience**, and **demonstrated ability to train and scale technical teams** to drive adoption, education, and success in enterprise platform implementations.
 
 **Passionate about** transforming how technical teams learn, collaborate, and deliver value through systematic training, mentorship, and community building at enterprise scale.
